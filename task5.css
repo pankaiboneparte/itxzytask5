@@ -12,27 +12,27 @@ header {
     left: 0;
     right: 0;
     top: 0;
-    height: 4.9rem;
-    line-height: 4.9rem;
+    height: 3.05rem;
+    line-height: 3.05rem;
     background-color:#5fc0cd;
 }
 header p {
-	margin:0 3.7rem 0 0;
+	margin:0 2rem 0 0;
 	color:#ffffff;
-	font-size: 2.25rem;
+	font-size: 1.3rem;
     font-family:STHeitiSC;
 	text-align: center;
 }
 header img {
 	float:left;
-    width: 1.25rem;
-    height: 2.19rem;
-    margin: 1.2rem 0 0 1.8rem;
+    width: 0.73rem;
+    height: 1.27rem;
+    margin: 0.76rem 0 0 1.27rem;
     }
 main {
 	position: absolute;
-    top: 4.9rem;
-    bottom: 8.6rem;
+    top: 3.05rem;
+    bottom: 4.65rem;
     left: 0;
     right: 0;
     background-color:#ffffff;
@@ -44,7 +44,7 @@ main {
 }
 .nav {
 	position: relative;
-    height: 20rem;
+    height: 11.85rem;
     width: 100%;
     background: url(./images/background.jpg) no-repeat center;
     background-size: cover;
@@ -52,11 +52,11 @@ main {
 }
 .portrait {
 	position: absolute;
-    left: 1.8rem;
-    top: 4.7rem;
+    left: 1.09rem;
+    top: 2.87rem;
     border-radius: 50%;
-    width: 10rem;
-    height: 10rem;
+    width: 6.15rem;
+    height: 6.15rem;
     overflow: hidden;
 }
 .portrait img {width: 100%}
@@ -64,65 +64,65 @@ main {
 	position: relative;
 	top: 50%;
     transform: translate(0,-50%); 
-    margin-left: 14.88rem;
+    margin-left: 8.65rem;
     
 }
-.profile span {font-size: 1.75rem;}
+.profile span {font-size: 1.02rem;}
 .name {
-	font-size: 2.25rem;
+	font-size: 1.31rem;
 	margin:0;
 }
 .loc {
-	margin-top: 1.6rem;
-    padding-left: 2.3rem;
+	margin-top: 0.87rem;
+    padding-left: 1.35rem;
     background: url(./images/location.png) no-repeat center left;
-    background-size:1.13rem 100%;
-    font-size: 1.5rem;
+    background-size:0.65rem 100%;
+    font-size: 0.87rem;
 }
-.form {font-size: 2rem;}
+.form {font-size: 1.16rem;}
 .form-title {
-    height: 6rem;
-    line-height: 6rem;
-    border-bottom: 0.06rem solid #e1e5e7;
-    padding-left: 1.9rem;
+    height: 3.64rem;
+    line-height: 3.64rem;
+    border-bottom: 0.04rem solid #e1e5e7;
+    padding-left: 1.09rem;
 }
 .form-title strong {
-    padding-left: 1.69rem;
-    border-left: 0.19rem solid #5fc0cd;
+    padding-left: 1.09rem;
+    border-left: 0.11rem solid #5fc0cd;
     ;
 }
 .list {
-    padding-left: 1.9rem;
+    padding-left: 1.09rem;
     list-style: none;
     margin:0;
 }
 .list li {
     position: relative;
-    padding:2rem 1.69rem 2rem 1.69rem;
-    border-bottom: 0.06rem solid #e1e5e7;
+    padding:1.27rem 1.09rem 1.27rem 1.09rem;
+    border-bottom: 0.04rem solid #e1e5e7;
 }
 .star-home {
     position: absolute;
-    border-right: 0.06rem solid #e1e5e7;
+    border-right: 0.04rem solid #e1e5e7;
     background: url(./images/star.png) no-repeat center left;
-    background-size:1.44rem;
-    padding:0 1.31rem 0 2.06rem;
+    background-size:0.84rem;
+    padding:0 0.76rem 0 1.2rem;
 }
 .star-eat {
-    margin-left: 8.3rem;
+    margin-left: 4.8rem;
     background: url(./images/star.png) no-repeat center left;
-    background-size:1.44rem;
-    padding:0 1.31rem 0 2.06rem;
+    background-size:0.84rem;
+    padding:0 0.76rem 0 1.2rem;
 }
 .column-left { 
     position: absolute;
     top: 50%;
     transform: translate(0,-50%); 
-    border-right: 0.06rem solid #e1e5e7;
+    border-right: 0.04rem solid #e1e5e7;
     color: #999999;
-    padding-right: 1.625rem;
+    padding-right: 0.98rem;
 }
-.column-right {margin-left: 11rem;}
+.column-right {margin-left: 6.6rem;}
 .column-right strong {color: #e26163;}
 footer {
     display: flex;
@@ -130,21 +130,21 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    padding: 0 2.3rem 2.5rem 2.3rem;
+    padding: 0 1.35rem 1.45rem 1.35rem;
     
 }
 button {
     flex: 1;
-    height: 5.25rem;
+    height: 3.2rem;
     width: 50%;
     outline: none;
 }
 .button-left,
 .button-right {
     font-family: HiraginoSansGB;
-    font-size:2.13rem;
-    border: 0.125rem solid #5fc0cd;
-    border-radius: 0.5rem;
+    font-size:1.24rem;
+    border: 0.07rem solid #5fc0cd;
+    border-radius: 0.22rem;
     font-weight: bold;
     background-color: #ffffff;
     color: #5fc0cd;
@@ -152,5 +152,5 @@ button {
 .button-right {
     background-color: #5fc0cd;
     color: #ffffff;
-    margin-left: 1.56rem;
+    margin-left: 0.91rem;
 }
