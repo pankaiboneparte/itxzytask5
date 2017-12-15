@@ -84,12 +84,12 @@ main {
 .form-title {
     height: 3.64rem;
     line-height: 3.64rem;
-    border-bottom: 0.04rem solid #e1e5e7;
+    border-bottom: 1px solid #e1e5e7;
     padding-left: 1.09rem;
 }
 .form-title strong {
     padding-left: 1.09rem;
-    border-left: 0.11rem solid #5fc0cd;
+    border-left: 3px solid #5fc0cd;
     ;
 }
 .list {
@@ -100,11 +100,11 @@ main {
 .list li {
     position: relative;
     padding:1.27rem 1.09rem 1.27rem 1.09rem;
-    border-bottom: 0.04rem solid #e1e5e7;
+    border-bottom: 1px solid #e1e5e7;
 }
 .star-home {
     position: absolute;
-    border-right: 0.04rem solid #e1e5e7;
+    border-right: 1px solid #e1e5e7;
     background: url(./images/star.png) no-repeat center left;
     background-size:0.84rem;
     padding:0 0.76rem 0 1.2rem;
@@ -119,7 +119,7 @@ main {
     position: absolute;
     top: 50%;
     transform: translate(0,-50%); 
-    border-right: 0.04rem solid #e1e5e7;
+    border-right: 1px solid #e1e5e7;
     color: #999999;
     padding-right: 0.98rem;
 }
@@ -144,8 +144,8 @@ button {
 .button-right {
     font-family: HiraginoSansGB;
     font-size:1.24rem;
-    border: 0.07rem solid #5fc0cd;
-    border-radius: 0.22rem;
+    border: 2px solid #5fc0cd;
+    border-radius: 5px;
     font-weight: bold;
     background-color: #ffffff;
     color: #5fc0cd;
