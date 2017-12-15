@@ -22,6 +22,7 @@ header p {
 	font-size: 1.3rem;
     font-family:STHeitiSC;
 	text-align: center;
+    font-weight: bold;
 }
 header img {
 	float:left;
